@@ -7,7 +7,7 @@ nodeJs와 Express를 활용한 back-end 구성 React를 활용한 front-end 구�
 
 ### 사용한 도구 
 
-<img style="width: 100px;, height: 100px; background-color: #61DAFB;" src="https://simpleicons.org/icons/nodedotjs.svg"> 
+<img style="width: 100px;, height: 100px; color: #61DAFB;" src="https://simpleicons.org/icons/nodedotjs.svg"> 
 <img style="width: 100px;, height: 100px; background-color: #61DAFB;" src="https://simpleicons.org/icons/react.svg"> 
 <img style="width: 100px;, height: 100px; background-color: #61DAFB;" src="https://simpleicons.org/icons/express.svg">
 
