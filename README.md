@@ -4,6 +4,7 @@
 
 nodeJs와 Express를 활용한 back-end 구성 React를 활용한 front-end 구성
 
+```bash
 C:.<br>
 │  README.md<br>
 │<br>
@@ -57,5 +58,7 @@ C:.<br>
         package-lock.json<br>
         package.json<br>
         server.js<br>
+
+```
 
         
