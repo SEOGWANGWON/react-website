@@ -77,7 +77,7 @@ git clone https://github.com/SEOGWANGWON/react-website.git
 ```bash
 # Front-End
 
-npx create-react-app <client>
+npx create-react-app client
 
 npm install react-bootstrap bootstrap 
 
