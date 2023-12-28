@@ -2,7 +2,7 @@
 
 ### 웹사이트 설명
 
-nodeJs와 Express를 활용한 back-end 구성 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=reactos&logoColor=black">를 활용한 front-end 구성
+nodeJs와 Express를 활용한 back-end 구성 React를 활용한 front-end 구성
 
 
 
@@ -63,4 +63,70 @@ C:.
 
 ```
 
-        
+
+## This Repository Command 
+
+```bash
+git clone https://github.com/SEOGWANGWON/react-website.git
+```
+
+
+
+### Client Command
+
+```bash
+# Front-End
+
+npx create-react-app <client>
+
+npm install react-bootstrap bootstrap 
+
+npm install axios
+```
+
+
+```bash
+# import link
+
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+import axios from 'axios';
+```
+
+### Server Command   
+
+```bath
+# Back-End
+
+C:\Users\user1\react-website> mkdir server
+
+C:\Users\user1\react-website> cd server
+
+C:\Users\user1\react-website>server          // your create server.js 
+
+npm init 
+
+npm install express oracledb cors   
+```
+
+```bath
+# your check package.json folder 
+
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "oracledb": "^6.3.0"
+  }
+}
+```
