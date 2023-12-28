@@ -2,13 +2,15 @@
 
 ### 웹사이트 설명
 
-nodeJs와 Express를 활용한 back-end 구성 React를 활용한 front-end 구성
+nodeJs와 Express를 활용한 back-end 구성 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=reactos&logoColor=black">를 활용한 front-end 구성
+
+
 
 ```bash
 C:.
 │  README.md
 │
-├─client    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=reactos&logoColor=black" />
+├─client
 │  │  .gitignore
 │  │  package-lock.json
 │  │  package.json
