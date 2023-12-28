@@ -8,9 +8,9 @@ nodeJs와 Express를 활용한 back-end 구성 React를 활용한 front-end 구�
 ### 사용한 도구 
 
 <span>
-<img style="width: 100px;, height: 100px;" src="https://simpleicons.org/icons/nodedotjs.svg"> 
-<img style="width: 100px;, height: 100px;" src="https://simpleicons.org/icons/react.svg"> 
-<img style="width: 100px;, height: 100px;" src="https://simpleicons.org/icons/express.svg">
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 </span>
 
 
